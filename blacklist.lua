@@ -112,7 +112,7 @@ dubdubdubdub40 = "",
 hocker9997 = "",
 asdwadasdas2 = "",
 SocialCreditTester = {
-[1] = true,
-[2] = true,
+[1] = false,
+[2] = false,
 },
 }
